@@ -1,6 +1,7 @@
 # 📊 Personal Finance Dashboard
 
-![Dashboard Preview](placeholder-for-dashboard-screenshot.png)
+![Dashboard ScreenShot](https://github.com/user-attachments/assets/54790eef-36be-4d82-80ca-28d18e00d1a9)
+creenshot.png)
 
 ## ✨ Overview
 
