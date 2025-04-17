@@ -1,0 +1,14 @@
+{
+  "name": "Slicer Borderless Theme",
+  "visualStyles": {
+    "slicer": {
+      "*": {
+        "border": [
+          {
+            "show": false
+          }
+        ]
+      }
+    }
+  }
+}
