@@ -66,7 +66,6 @@ A comprehensive financial tracking tool built with Power BI, visualizing income,
 
 - Predictive expense forecasting
 - Budget planning with variance analysis
-- Direct banking API connections
 - Mobile-optimized view
 - Financial goal tracking
 
